@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_Verify User Failed Make Appointment when user fill blank field Visit Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f971a657-15d1-433e-85fe-225e72ecc515</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1877b4e-f153-40c4-be13-9d8f93e10819</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>971c1ea2-c974-4a96-afe0-a7acf6a2280c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24c043ec-4654-4881-af2e-90310350015a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>b1877b4e-f153-40c4-be13-9d8f93e10819</id>
+      <masked>false</masked>
+      <name>valueFacility</name>
+   </variable>
+   <variable>
+      <defaultValue>'20/02/2025'</defaultValue>
+      <description></description>
+      <id>971c1ea2-c974-4a96-afe0-a7acf6a2280c</id>
+      <masked>false</masked>
+      <name>valueVisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'contoh comment'</defaultValue>
+      <description></description>
+      <id>24c043ec-4654-4881-af2e-90310350015a</id>
+      <masked>false</masked>
+      <name>valueComment</name>
+   </variable>
+</TestCaseEntity>

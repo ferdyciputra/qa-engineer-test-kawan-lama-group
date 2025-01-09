@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Verify User Failed Login when user fill blank field username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8c40f37-aef4-4ec0-9307-2fddf3ac2ca3</testCaseGuid>
+</TestCaseEntity>

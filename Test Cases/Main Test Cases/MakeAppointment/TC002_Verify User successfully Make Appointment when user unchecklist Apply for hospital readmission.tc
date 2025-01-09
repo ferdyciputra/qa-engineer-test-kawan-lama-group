@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Verify User successfully Make Appointment when user unchecklist Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66ab49ca-2456-4352-aecb-9071d30311bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba98ddf1-948b-46c7-94d4-61db297b548c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6eae315-f6e0-45e3-9ffa-183d8e020140</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>204ce6f9-325f-4ee3-8144-51919ff632d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>ba98ddf1-948b-46c7-94d4-61db297b548c</id>
+      <masked>false</masked>
+      <name>valueFacility</name>
+   </variable>
+   <variable>
+      <defaultValue>'20/02/2025'</defaultValue>
+      <description></description>
+      <id>c6eae315-f6e0-45e3-9ffa-183d8e020140</id>
+      <masked>false</masked>
+      <name>valueVisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'contoh comment'</defaultValue>
+      <description></description>
+      <id>204ce6f9-325f-4ee3-8144-51919ff632d8</id>
+      <masked>false</masked>
+      <name>valueComment</name>
+   </variable>
+</TestCaseEntity>
